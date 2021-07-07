@@ -14,11 +14,11 @@
 #What features drive Sales Per GLA well below neighborhood average?
 #For this portion, we mainly focused on the ‘Bottom 80%’ of GrLivArea as detailed in the Project Description
 
-#Categorical: 26 categorical columns
+#Categorical: 25 categorical columns
 
 #Ordinal: 20 ordinal columns
 
-#Numeric: 34 numeric columns
+#Numeric: 36 numeric columns
 
 #Feature Engineering: We added a SalePricePerGLA column, which is defined as SalePrice divided by GrLivArea
 
